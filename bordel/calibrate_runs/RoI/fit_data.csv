@@ -1,0 +1,2 @@
+start,end,amplitude,mean_F90,sigma_F90,mean_logS2maxLoS1L,sigma_logS2maxLoS1L,correlation_coeff,theta
+30,115,4.86711,0.728976,0.0750908,-0.382402,0.252281,0.0465617,-0.0152015

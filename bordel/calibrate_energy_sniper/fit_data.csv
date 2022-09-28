@@ -1,0 +1,2 @@
+start,end,amplitude,mean_F90,sigma_F90,mean_logS2maxLoS1L,sigma_logS2maxLoS1L,correlation_coeff,theta,Chi2,NDF,Chi2/NDF,p-value
+10,20,1.22845,0.400976,0.0980441,0.109294,0.184828,3.16846e-11,-2.33889e-11,438.179,353,1.2413,0.00133376
